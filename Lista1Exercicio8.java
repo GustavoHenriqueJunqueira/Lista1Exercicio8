@@ -1,7 +1,7 @@
 package lista1exercicio8;
 
 import java.util.Scanner;
-
+  
 public class Lista1Exercicio8 {
 
     public static void main(String[] args) {
